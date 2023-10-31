@@ -1,0 +1,1 @@
+{"error":"read /home/runner/Sid-Portfolio-final/doghero.png: input/output error","level":"error","msg":"unable to write file doghero.png","time":"2023-09-29T23:30:16Z"}
