@@ -105,7 +105,8 @@ nav li a {
 .imgcontainer {
   position: relative;
   text-align: center;
-  color: #32CD32; 
+  color: #32CD32;
+  width: 100%;
 }
 
 /* Centered text */
@@ -124,7 +125,7 @@ nav li a {
 /* 9/19 */
 .twocontainer {
   float: left;
-  width: 50%; /* three boxes (use 25% for four, and 50% for two, etc) */
+  width: 100%; /* three boxes (use 25% for four, and 50% for two, etc) */
   padding: 10px; /* if you want space between the images */
 }
 
